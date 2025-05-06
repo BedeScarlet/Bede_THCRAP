@@ -8,12 +8,14 @@ Spell Card BGs
  - [ ] `stgenm\stage01\cardbg1.png`
  -- 512 x 512 PNG
  - [ ] `stgenm\stage02\cdbg02a00.png`
- - [ ] `stgenm\stage02\
+-- 512 x 512 PNG
+ - [ ] `stgenm\stage02\cdbg02b.png`
+-- 512 x 512 PNG
  - [ ] `stgenm\stage03\cdbg03a00.png`
  -- 512 x 512 PNG
  - [ ] `stgenm\stage03\cdbg03b.png`
  -- 512 x 512 PNG
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTI3ODI5LDY1ODAxODU3M119
+eyJoaXN0b3J5IjpbLTIwMjk5NDY1Niw2NTgwMTg1NzNdfQ==
 -->
