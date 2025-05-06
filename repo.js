@@ -1,11 +1,11 @@
 {
-    "contact": "bedescarlet.bsky.social",
     "id": "Bede",
-    "patches": {
-        "f-ck_AI": "Replaces all AI-Generated textures and graphics."
-    },
+    "title": "BedeScarlet's Repository",
+    "contact": "bedescarlet.bsky.social",
     "servers": [
         "https://mirrors.thpatch.net/Bede/"
     ],
-    "title": "BedeScarlet's Repository"
+    "patches": {
+        "f-ck_AI": "Replaces all Generative AI textures and images from Touhou Kinjoukyou ~ Fossilized Wonders."
+    }
 }
