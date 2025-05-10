@@ -13,7 +13,7 @@ Spell Card BGs
 Stage Textures
 - [ ] `background\stage01\st01a.png` -- 512 x 512 PNG
 - [x] `background\stage02\st02a.png` -- 512 x 512 PNG
-- [ ] `background\stage02\st02c00.png` -- 512 x 512 PNG
+- [x] `background\stage02\st02c00.png` -- 512 x 512 PNG
 - [ ] `background\stage03\st03a00.png` -- 512 x 512 PNG
 - [ ] `background\stage03\st03b00.png` -- 512 x 512 PNG
 - [ ] `background\stage03\st03c00.png` -- 512 x 512 PNG
