@@ -1,7 +1,7 @@
 # th20_f-ck_AI
 Removes all Generative AI textures and images from Touhou Kinjoukyou ~ Fossilized Wonders.
 
-Certain images taken from [Freepik](www.freepik.com)
+Certain images edited from [Freepik](www.freepik.com)
 
 ### *Files to be modified:*
 Spell Card BGs
@@ -19,7 +19,7 @@ Stage Textures
 - [x] `background\stage02\st02c00.png` -- 512 x 512 PNG
 - [ ] `background\stage03\st03a00.png` -- 512 x 512 PNG
 - [ ] `background\stage03\st03b00.png` -- 512 x 512 PNG
-- [ ] `background\stage03\st03c00.png` -- 512 x 512 PNG
+- [x] `background\stage03\st03c00.png` -- 512 x 512 PNG
 - [ ] `background\stage03\st03d00.png` -- 512 x 512 PNG
 
 UI Elements
