@@ -17,8 +17,8 @@ Stage Textures
 - [x] `background\stage01\A007.png` -- 1024 x 141 PNG
 - [x] `background\stage02\st02a.png` -- 512 x 512 PNG
 - [x] `background\stage02\st02c00.png` -- 512 x 512 PNG
-- [ ] `background\stage03\st03a00.png` -- 512 x 512 PNG
-- [ ] `background\stage03\st03b00.png` -- 512 x 512 PNG
+- [x] `background\stage03\st03a00.png` -- 512 x 512 PNG
+- [x] `background\stage03\st03b00.png` -- 512 x 512 PNG
 - [x] `background\stage03\st03c00.png` -- 512 x 512 PNG
 - [ ] `background\stage03\st03d00.png` -- 512 x 512 PNG
 
